@@ -4,4 +4,6 @@ title: "myWebsite"
 
 This is a Quarto website.
 
+Hello everyone, my name is Zanan. I am currently attending master of data science program at UBC and it's indeed intensive.
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

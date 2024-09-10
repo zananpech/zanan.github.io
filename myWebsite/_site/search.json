@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "objectID": "index.html",
     "href": "index.html",
     "title": "myWebsite",
@@ -7,6 +8,8 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
+=======
+>>>>>>> fe94dbffa15a8b5a4944e995cfe906af3ce5abfb
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
